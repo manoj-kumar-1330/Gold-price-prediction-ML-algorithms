@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manoj-kumar-1330
-- 👀 I’m interested in web development, data analytics, and artificial intelligence.
-- 🌱 I’m currently learning React.js and expanding my knowledge in Python for data science.
+- 👀 I’m interested in machine learning and artificial intelligence.
+- 🌱 I’m currently ML algorithms and expanding my knowledge in Python for ML.
 - 💞️ I’m looking to collaborate on open-source projects, especially in web development and data analytics.
 - 📫 How to reach me: manojvelgapudi@gmail.com
 - 😄 Pronouns: He/Him
